@@ -1,0 +1,14 @@
+Part,Qty,Unit Price (USD),Line Total (USD),Vendor,Function / Notes,Amazon India Link
+ESP32-CAM N16R8 with OV3660,1,12.5,12.5,Amazon,Main function,https://www.amazon.in/s?k=ESP32+S3+CAM+N16R8+OV3660+camera+development+board
+NEMA 17 stepper motor,6,6.0,36.0,Amazon,For movement,https://www.amazon.in/s?k=NEMA+17+stepper+motor+1.7A
+A4988 motor driver,6,1.3,7.8,Amazon,Control motor,https://www.amazon.in/s?k=A4988+stepper+motor+driver+module+with+heatsink
+XL6009 boost converter,5,1.3,6.5,Amazon,Power supply,https://www.amazon.in/s?k=XL6009+DC+DC+boost+converter+module
+DIY 2DOF gripper,1,16.0,16.0,Amazon,For grip,https://www.amazon.in/s?k=DIY+2DOF+robotic+arm+gripper+kit
+Limit switch,1,2.0,2.0,Amazon,Switch,https://www.amazon.in/s?k=small+mechanical+limit+switch+for+CNC+3D+printer
+NEMA 17 mounting brackets,1,0.9,0.9,Flyrobo,For mounting,https://www.amazon.in/s?k=NEMA+17+stepper+motor+mounting+bracket
+Bearing,6,0.2,1.2,Flyrobo,For movement,https://www.amazon.in/s?k=608ZZ+bearing+robotics+3D+printer
+Shaft coupler,6,0.8,4.8,Flyrobo,For motor,https://www.amazon.in/s?k=5mm+to+8mm+flexible+shaft+coupler+NEMA+17
+Jumper wires,1,1.2,1.2,Amazon,For connecting,https://www.amazon.in/s?k=jumper+wires+male+female+breadboard+40pcs
+USB-to-UART adapter,1,2.0,2.0,Amazon,For connecting/programming,https://www.amazon.in/s?k=USB+to+TTL+UART+3.3V+FT232+CP2102+adapter
+ESP32 development board,2,4.5,9.0,Amazon,Main controller,https://www.amazon.in/s?k=ESP32+development+board+ESP32+WROOM+32
+Tax & shipping,,,,Vendor / carrier,For the whole order; enter actual checkout amount,
